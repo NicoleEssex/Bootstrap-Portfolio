@@ -1,0 +1,36 @@
+a.navbar-brand {
+    background: lightseagreen;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 35px;
+}
+footer {
+    background-color: dimgray;
+    color: #fff;
+    height: 50px;
+    text-align: center;
+    padding: 15px;
+    margin-top: 30px;
+    position: absolute;
+    margin-bottom: 0px;
+    width: 100%;  
+}
+body {
+    background-image: url(../images/topography.png);
+}
+.icons {
+    width: 25%;
+    margin-left: 6px;
+}
+p.proj {
+    background: lightseagreen;
+    text-align: center;
+    color: #fff;
+    width: inherit;
+}
+div.proj {
+    padding:inherit;
+}
+div.col-lg-8.col-md-8.col-sm-12.col-xs-12 {
+    background: #fff;
+    border: 2px dimgray solid;
+}
